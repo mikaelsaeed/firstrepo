@@ -51,7 +51,7 @@ def main():
     manager = TaskManager()
 
     while True:
-        print("\n1. Add Taskssssssss\n2. View Tasks\n3. Complete Task\n4. Delete Task\n5. Exit")
+        print("\n1. Add Tasksssssmmmmmsss\n2. View Tasks\n3. Complete Task\n4. Delete Task\n5. Exit")
         choice = input("Choose: ")
 
         if choice == "1":
